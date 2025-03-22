@@ -1,0 +1,8 @@
+CollisionShape2D
+AnimatedSprite2D
+CharacterBody2D
+Camera2D
+TileMapLayer
+Button
+RichTextLabel
+Node2D

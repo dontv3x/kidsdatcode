@@ -1,0 +1,337 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1742499012
+icon.svg::CompressedTexture2D::5117520963780351706::1742498491::1742498516::1::::<><>::
+Welcome.tscn::PackedScene::8836623279383591622::1742498828::0::1::::<><>::uid://cklpnm33f2x35::::res://[AR] Hospital Assets - FREE/0. Welcome.png
+::res://Assets/::1742499070
+lablady_spritesheet_BOXED.png::CompressedTexture2D::5784378641051519337::1742499008::1742499013::1::::<><>::
+::res://Assets/Free/::1742499073
+20 Enemies.png::CompressedTexture2D::3722891482718396984::1742499070::1742499077::1::::<><>::
+Hello.png::CompressedTexture2D::2344080600504916513::1742499070::1742499077::1::::<><>::
+::res://Assets/Free/Background/::1742499070
+Blue.png::CompressedTexture2D::2441441812959244189::1742499070::1742499078::1::::<><>::
+Brown.png::CompressedTexture2D::2678819800844432557::1742499070::1742499078::1::::<><>::
+Gray.png::CompressedTexture2D::95427854991491451::1742499070::1742499078::1::::<><>::
+Green.png::CompressedTexture2D::622488462848142029::1742499070::1742499078::1::::<><>::
+Pink.png::CompressedTexture2D::8390003153980255092::1742499070::1742499078::1::::<><>::
+Purple.png::CompressedTexture2D::3917415783599456234::1742499070::1742499078::1::::<><>::
+Yellow.png::CompressedTexture2D::7145696466759146800::1742499070::1742499078::1::::<><>::
+::res://Assets/Free/Items/::1742499071
+::res://Assets/Free/Items/Boxes/::1742499070
+::res://Assets/Free/Items/Boxes/Box1/::1742499070
+Break.png::CompressedTexture2D::5185760613728064461::1742499070::1742499078::1::::<><>::
+Hit (28x24).png::CompressedTexture2D::6399210627593103653::1742499070::1742499078::1::::<><>::
+Idle.png::CompressedTexture2D::4544801459463151300::1742499070::1742499078::1::::<><>::
+::res://Assets/Free/Items/Boxes/Box2/::1742499070
+Break.png::CompressedTexture2D::178239598524586399::1742499070::1742499078::1::::<><>::
+Hit (28x24).png::CompressedTexture2D::2857519096226908024::1742499070::1742499078::1::::<><>::
+Idle.png::CompressedTexture2D::3176719231074128186::1742499070::1742499078::1::::<><>::
+::res://Assets/Free/Items/Boxes/Box3/::1742499070
+Break.png::CompressedTexture2D::7449040137839482995::1742499070::1742499078::1::::<><>::
+Hit (28x24).png::CompressedTexture2D::4346286162160891982::1742499070::1742499078::1::::<><>::
+Idle.png::CompressedTexture2D::1776006996602810016::1742499070::1742499078::1::::<><>::
+::res://Assets/Free/Items/Checkpoints/::1742499071
+::res://Assets/Free/Items/Checkpoints/Checkpoint/::1742499071
+Checkpoint (Flag Idle)(64x64).png::CompressedTexture2D::1311792953021846868::1742499070::1742499078::1::::<><>::
+Checkpoint (Flag Out) (64x64).png::CompressedTexture2D::7797384458725478971::1742499071::1742499078::1::::<><>::
+Checkpoint (No Flag).png::CompressedTexture2D::929623759371192406::1742499071::1742499078::1::::<><>::
+::res://Assets/Free/Items/Checkpoints/End/::1742499071
+End (Idle).png::CompressedTexture2D::74197036990146813::1742499071::1742499078::1::::<><>::
+End (Pressed) (64x64).png::CompressedTexture2D::5351342074319634759::1742499071::1742499078::1::::<><>::
+::res://Assets/Free/Items/Checkpoints/Start/::1742499071
+Start (Idle).png::CompressedTexture2D::4303168007970990188::1742499071::1742499078::1::::<><>::
+Start (Moving) (64x64).png::CompressedTexture2D::3019650322310424346::1742499071::1742499077::1::::<><>::
+::res://Assets/Free/Items/Fruits/::1742499071
+Apple.png::CompressedTexture2D::1273569565529785041::1742499071::1742499077::1::::<><>::
+Bananas.png::CompressedTexture2D::9179490875457429881::1742499071::1742499077::1::::<><>::
+Cherries.png::CompressedTexture2D::8284958071301538360::1742499071::1742499077::1::::<><>::
+Collected.png::CompressedTexture2D::8503107858313708407::1742499071::1742499077::1::::<><>::
+Kiwi.png::CompressedTexture2D::4759098524776802427::1742499071::1742499077::1::::<><>::
+Melon.png::CompressedTexture2D::1269947560879024989::1742499071::1742499077::1::::<><>::
+Orange.png::CompressedTexture2D::2499504587957242392::1742499071::1742499077::1::::<><>::
+Pineapple.png::CompressedTexture2D::2833073616577288817::1742499071::1742499077::1::::<><>::
+Strawberry.png::CompressedTexture2D::3035623829328943822::1742499071::1742499077::1::::<><>::
+::res://Assets/Free/Main Characters/::1742499071
+Appearing (96x96).png::CompressedTexture2D::7869654924877087172::1742499071::1742499079::1::::<><>::
+Desappearing (96x96).png::CompressedTexture2D::7810677375934082775::1742499071::1742499079::1::::<><>::
+::res://Assets/Free/Main Characters/Mask Dude/::1742499071
+Double Jump (32x32).png::CompressedTexture2D::8632995127363703759::1742499071::1742499077::1::::<><>::
+Fall (32x32).png::CompressedTexture2D::1507764551466550123::1742499071::1742499077::1::::<><>::
+Hit (32x32).png::CompressedTexture2D::6612501852468442941::1742499071::1742499077::1::::<><>::
+Idle (32x32).png::CompressedTexture2D::7018981626455335251::1742499071::1742499077::1::::<><>::
+Jump (32x32).png::CompressedTexture2D::2156995446785169870::1742499071::1742499077::1::::<><>::
+Run (32x32).png::CompressedTexture2D::4302912559283116767::1742499071::1742499077::1::::<><>::
+Wall Jump (32x32).png::CompressedTexture2D::8496150975714296601::1742499071::1742499078::1::::<><>::
+::res://Assets/Free/Main Characters/Ninja Frog/::1742499071
+Double Jump (32x32).png::CompressedTexture2D::3061618980098456146::1742499071::1742499078::1::::<><>::
+Fall (32x32).png::CompressedTexture2D::2803786195665941809::1742499071::1742499078::1::::<><>::
+Hit (32x32).png::CompressedTexture2D::725381680014860626::1742499071::1742499078::1::::<><>::
+Idle (32x32).png::CompressedTexture2D::4502837701711735228::1742499071::1742499078::1::::<><>::
+Jump (32x32).png::CompressedTexture2D::9190123066790363147::1742499071::1742499078::1::::<><>::
+Run (32x32).png::CompressedTexture2D::5548982120803454681::1742499071::1742499078::1::::<><>::
+Wall Jump (32x32).png::CompressedTexture2D::8463188321140453676::1742499071::1742499078::1::::<><>::
+::res://Assets/Free/Main Characters/Pink Man/::1742499071
+Double Jump (32x32).png::CompressedTexture2D::5674194953615770919::1742499071::1742499079::1::::<><>::
+Fall (32x32).png::CompressedTexture2D::5509600728588271373::1742499071::1742499078::1::::<><>::
+Hit (32x32).png::CompressedTexture2D::856234708207799439::1742499071::1742499079::1::::<><>::
+Idle (32x32).png::CompressedTexture2D::9149944334757729650::1742499071::1742499079::1::::<><>::
+Jump (32x32).png::CompressedTexture2D::3089620496783294359::1742499071::1742499079::1::::<><>::
+Run (32x32).png::CompressedTexture2D::4773912647990366448::1742499071::1742499079::1::::<><>::
+Wall Jump (32x32).png::CompressedTexture2D::4308032701998997172::1742499071::1742499079::1::::<><>::
+::res://Assets/Free/Main Characters/Virtual Guy/::1742499072
+Double Jump (32x32).png::CompressedTexture2D::5737462049106235415::1742499071::1742499079::1::::<><>::
+Fall (32x32).png::CompressedTexture2D::3027932224283306636::1742499071::1742499079::1::::<><>::
+Hit (32x32).png::CompressedTexture2D::1002701140094789345::1742499071::1742499079::1::::<><>::
+Idle (32x32).png::CompressedTexture2D::512333258509505143::1742499071::1742499079::1::::<><>::
+Jump (32x32).png::CompressedTexture2D::4764284054270011818::1742499071::1742499079::1::::<><>::
+Run (32x32).png::CompressedTexture2D::6815116655442523273::1742499071::1742499079::1::::<><>::
+Wall Jump (32x32).png::CompressedTexture2D::4892005296641775268::1742499072::1742499079::1::::<><>::
+::res://Assets/Free/Menu/::1742499073
+::res://Assets/Free/Menu/Buttons/::1742499072
+Achievements.png::CompressedTexture2D::4929086933469177663::1742499072::1742499079::1::::<><>::
+Back.png::CompressedTexture2D::6544965493488966035::1742499072::1742499079::1::::<><>::
+Close.png::CompressedTexture2D::8156001664964535098::1742499072::1742499079::1::::<><>::
+Leaderboard.png::CompressedTexture2D::1872671175363672042::1742499072::1742499079::1::::<><>::
+Levels.png::CompressedTexture2D::605865436073152668::1742499072::1742499078::1::::<><>::
+Next.png::CompressedTexture2D::8483612994425082491::1742499072::1742499078::1::::<><>::
+Play.png::CompressedTexture2D::1342762225267650587::1742499072::1742499078::1::::<><>::
+Previous.png::CompressedTexture2D::8800263270312541231::1742499072::1742499078::1::::<><>::
+Restart.png::CompressedTexture2D::8626878008673102982::1742499072::1742499078::1::::<><>::
+Settings.png::CompressedTexture2D::8061110791631548690::1742499072::1742499078::1::::<><>::
+Volume.png::CompressedTexture2D::4488610784545038932::1742499072::1742499078::1::::<><>::
+::res://Assets/Free/Menu/Levels/::1742499073
+01.png::CompressedTexture2D::3962505307044895565::1742499072::1742499078::1::::<><>::
+02.png::CompressedTexture2D::7649276767613906147::1742499072::1742499078::1::::<><>::
+03.png::CompressedTexture2D::8987085012629188097::1742499072::1742499078::1::::<><>::
+04.png::CompressedTexture2D::1001677634378420933::1742499072::1742499078::1::::<><>::
+05.png::CompressedTexture2D::837855697693641272::1742499072::1742499078::1::::<><>::
+06.png::CompressedTexture2D::2414535976477347429::1742499072::1742499078::1::::<><>::
+07.png::CompressedTexture2D::4355188040336728063::1742499072::1742499078::1::::<><>::
+08.png::CompressedTexture2D::3336893793413998565::1742499072::1742499078::1::::<><>::
+09.png::CompressedTexture2D::5084761825224620224::1742499072::1742499078::1::::<><>::
+10.png::CompressedTexture2D::3743817324080878349::1742499072::1742499078::1::::<><>::
+11.png::CompressedTexture2D::5019262705955360::1742499072::1742499078::1::::<><>::
+12.png::CompressedTexture2D::1517034320012438179::1742499072::1742499078::1::::<><>::
+13.png::CompressedTexture2D::6018076058108252171::1742499072::1742499078::1::::<><>::
+14.png::CompressedTexture2D::8310872704260943336::1742499072::1742499078::1::::<><>::
+15.png::CompressedTexture2D::8382829826709382612::1742499072::1742499078::1::::<><>::
+16.png::CompressedTexture2D::1872220261172570723::1742499072::1742499076::1::::<><>::
+17.png::CompressedTexture2D::3936005027626619419::1742499072::1742499076::1::::<><>::
+18.png::CompressedTexture2D::7144520234558507716::1742499072::1742499076::1::::<><>::
+19.png::CompressedTexture2D::338139298131761717::1742499072::1742499076::1::::<><>::
+20.png::CompressedTexture2D::6363502787448316762::1742499072::1742499076::1::::<><>::
+21.png::CompressedTexture2D::6142084638541421076::1742499072::1742499076::1::::<><>::
+22.png::CompressedTexture2D::2193008065796294551::1742499072::1742499076::1::::<><>::
+23.png::CompressedTexture2D::8292218130712663123::1742499072::1742499076::1::::<><>::
+24.png::CompressedTexture2D::3052326228046542470::1742499072::1742499076::1::::<><>::
+25.png::CompressedTexture2D::4626638224143241838::1742499072::1742499076::1::::<><>::
+26.png::CompressedTexture2D::3200698563059539545::1742499072::1742499076::1::::<><>::
+27.png::CompressedTexture2D::377876442031396636::1742499072::1742499076::1::::<><>::
+28.png::CompressedTexture2D::2762829931179115288::1742499072::1742499076::1::::<><>::
+29.png::CompressedTexture2D::1203643544561319554::1742499072::1742499076::1::::<><>::
+30.png::CompressedTexture2D::3545346452308482686::1742499072::1742499076::1::::<><>::
+31.png::CompressedTexture2D::5189005686286305709::1742499072::1742499076::1::::<><>::
+32.png::CompressedTexture2D::2230138703005609187::1742499072::1742499076::1::::<><>::
+33.png::CompressedTexture2D::507591047610558127::1742499072::1742499076::1::::<><>::
+34.png::CompressedTexture2D::7485775541931273293::1742499072::1742499076::1::::<><>::
+35.png::CompressedTexture2D::7705428406386408013::1742499072::1742499076::1::::<><>::
+36.png::CompressedTexture2D::3797352477564604552::1742499072::1742499076::1::::<><>::
+37.png::CompressedTexture2D::1604097729875082410::1742499072::1742499076::1::::<><>::
+38.png::CompressedTexture2D::3602009705174434279::1742499073::1742499075::1::::<><>::
+39.png::CompressedTexture2D::8948488553395475338::1742499073::1742499075::1::::<><>::
+40.png::CompressedTexture2D::4662829351240472228::1742499073::1742499075::1::::<><>::
+41.png::CompressedTexture2D::6408050213218395900::1742499073::1742499075::1::::<><>::
+42.png::CompressedTexture2D::9143790858213412520::1742499073::1742499075::1::::<><>::
+43.png::CompressedTexture2D::6809166117779090::1742499073::1742499075::1::::<><>::
+44.png::CompressedTexture2D::8125204722507941747::1742499073::1742499075::1::::<><>::
+45.png::CompressedTexture2D::1373314118319376755::1742499073::1742499075::1::::<><>::
+46.png::CompressedTexture2D::6762544046644050439::1742499073::1742499075::1::::<><>::
+47.png::CompressedTexture2D::5794196151598364798::1742499073::1742499075::1::::<><>::
+48.png::CompressedTexture2D::470926297231648::1742499073::1742499075::1::::<><>::
+49.png::CompressedTexture2D::1627718835905929258::1742499073::1742499075::1::::<><>::
+50.png::CompressedTexture2D::2169017488861049438::1742499073::1742499075::1::::<><>::
+::res://Assets/Free/Menu/Text/::1742499073
+Text (Black) (8x10).png::CompressedTexture2D::3438606177860834615::1742499073::1742499075::1::::<><>::
+Text (White) (8x10).png::CompressedTexture2D::2199730671417481749::1742499073::1742499075::1::::<><>::
+::res://Assets/Free/Other/::1742499073
+Confetti (16x16).png::CompressedTexture2D::8912304275213493091::1742499073::1742499076::1::::<><>::
+Dust Particle.png::CompressedTexture2D::8089369974784556553::1742499073::1742499076::1::::<><>::
+Shadow.png::CompressedTexture2D::1040723670175205978::1742499073::1742499076::1::::<><>::
+Transition.png::CompressedTexture2D::5276460206641963200::1742499073::1742499076::1::::<><>::
+::res://Assets/Free/Terrain/::1742499073
+Terrain (16x16).png::CompressedTexture2D::6392831600640466225::1742499073::1742499076::1::::<><>::
+::res://Assets/Free/Traps/::1742499074
+::res://Assets/Free/Traps/Arrow/::1742499073
+Hit (18x18).png::CompressedTexture2D::6438293247243481153::1742499073::1742499076::1::::<><>::
+Idle (18x18).png::CompressedTexture2D::198363424161461848::1742499073::1742499077::1::::<><>::
+::res://Assets/Free/Traps/Blocks/::1742499073
+HitSide (22x22).png::CompressedTexture2D::3678307220845671620::1742499073::1742499077::1::::<><>::
+HitTop (22x22).png::CompressedTexture2D::8619895479051742508::1742499073::1742499077::1::::<><>::
+Idle.png::CompressedTexture2D::3655006940967731063::1742499073::1742499077::1::::<><>::
+Part 1 (22x22).png::CompressedTexture2D::3328684684076631806::1742499073::1742499077::1::::<><>::
+Part 2 (22x22).png::CompressedTexture2D::1094672005619812189::1742499073::1742499077::1::::<><>::
+::res://Assets/Free/Traps/Falling Platforms/::1742499073
+Off.png::CompressedTexture2D::7009407604293672997::1742499073::1742499077::1::::<><>::
+On (32x10).png::CompressedTexture2D::5437412143602855174::1742499073::1742499077::1::::<><>::
+::res://Assets/Free/Traps/Fan/::1742499073
+Off.png::CompressedTexture2D::6607156362608443727::1742499073::1742499077::1::::<><>::
+On (24x8).png::CompressedTexture2D::5320284271679991032::1742499073::1742499077::1::::<><>::
+::res://Assets/Free/Traps/Fire/::1742499073
+Hit (16x32).png::CompressedTexture2D::6002039329976797410::1742499073::1742499077::1::::<><>::
+Off.png::CompressedTexture2D::6721247035697652920::1742499073::1742499077::1::::<><>::
+On (16x32).png::CompressedTexture2D::698066802375665622::1742499073::1742499077::1::::<><>::
+::res://Assets/Free/Traps/Platforms/::1742499073
+Brown Off.png::CompressedTexture2D::4360979247851591932::1742499073::1742499077::1::::<><>::
+Brown On (32x8).png::CompressedTexture2D::1295370211947037646::1742499073::1742499077::1::::<><>::
+Chain.png::CompressedTexture2D::3813570227723654617::1742499073::1742499077::1::::<><>::
+Grey Off.png::CompressedTexture2D::7727940459626066155::1742499073::1742499077::1::::<><>::
+Grey On (32x8).png::CompressedTexture2D::6400564448290665836::1742499073::1742499077::1::::<><>::
+::res://Assets/Free/Traps/Rock Head/::1742499073
+Blink (42x42).png::CompressedTexture2D::6712716712023599545::1742499073::1742499077::1::::<><>::
+Bottom Hit (42x42).png::CompressedTexture2D::3144128996963754709::1742499073::1742499077::1::::<><>::
+Idle.png::CompressedTexture2D::5341720543565357689::1742499073::1742499077::1::::<><>::
+Left Hit (42x42).png::CompressedTexture2D::2406956436181036213::1742499073::1742499077::1::::<><>::
+Right Hit (42x42).png::CompressedTexture2D::8315883589278447529::1742499073::1742499076::1::::<><>::
+Top Hit (42x42).png::CompressedTexture2D::3337627111576238082::1742499073::1742499076::1::::<><>::
+::res://Assets/Free/Traps/Sand Mud Ice/::1742499073
+Ice Particle.png::CompressedTexture2D::950388195611257570::1742499073::1742499076::1::::<><>::
+Mud Particle.png::CompressedTexture2D::68577371968763572::1742499073::1742499076::1::::<><>::
+Sand Mud Ice (16x6).png::CompressedTexture2D::2096947460503618799::1742499073::1742499076::1::::<><>::
+Sand Particle.png::CompressedTexture2D::8207430457465552957::1742499073::1742499076::1::::<><>::
+::res://Assets/Free/Traps/Saw/::1742499073
+Chain.png::CompressedTexture2D::3030526151000636509::1742499073::1742499076::1::::<><>::
+Off.png::CompressedTexture2D::8170227362801250604::1742499073::1742499076::1::::<><>::
+On (38x38).png::CompressedTexture2D::3047445045677622962::1742499073::1742499076::1::::<><>::
+::res://Assets/Free/Traps/Spike Head/::1742499074
+Blink (54x52).png::CompressedTexture2D::7543060729754738281::1742499074::1742499076::1::::<><>::
+Bottom Hit (54x52).png::CompressedTexture2D::1514441688297258517::1742499074::1742499076::1::::<><>::
+Idle.png::CompressedTexture2D::992977389092370069::1742499074::1742499076::1::::<><>::
+Left Hit (54x52).png::CompressedTexture2D::798954273615128660::1742499074::1742499076::1::::<><>::
+Right Hit (54x52).png::CompressedTexture2D::5891130400879622327::1742499074::1742499076::1::::<><>::
+Top Hit (54x52).png::CompressedTexture2D::4899852689893787247::1742499074::1742499076::1::::<><>::
+::res://Assets/Free/Traps/Spiked Ball/::1742499074
+Chain.png::CompressedTexture2D::6383704259862728885::1742499074::1742499077::1::::<><>::
+Spiked Ball.png::CompressedTexture2D::6081641418747433082::1742499074::1742499077::1::::<><>::
+::res://Assets/Free/Traps/Spikes/::1742499074
+Idle.png::CompressedTexture2D::4038486999371709199::1742499074::1742499077::1::::<><>::
+::res://Assets/Free/Traps/Trampoline/::1742499074
+Idle.png::CompressedTexture2D::4328274704950434490::1742499074::1742499077::1::::<><>::
+Jump (28x28).png::CompressedTexture2D::3510220095186259744::1742499074::1742499077::1::::<><>::
+::res://[AR] Hospital Assets - FREE/::1742498671
+0. Welcome.png::CompressedTexture2D::5498372604088131802::1723104032::1742498671::1::::<><>::
+1. Read Me.txt::TextFile::-1::1723104032::0::1::::<><>::
+2. License.png::CompressedTexture2D::5514234178407897708::1723104030::1742498670::1::::<><>::
+::res://[AR] Hospital Assets - FREE/3. Models/::1742498720
+hospital_gradient_uv.png::CompressedTexture2D::3350569430461481528::1723104032::1742498720::1::::<><>::
+::res://[AR] Hospital Assets - FREE/3. Models/dae/::1742498699
+bed_1.dae::PackedScene::5391201421322244534::1723104034::1742498699::1::::<><>::
+bed_2.dae::PackedScene::6485737894349728792::1723104034::1742498698::1::::<><>::
+bed_4.dae::PackedScene::4463145352100437145::1723104034::1742498698::1::::<><>::
+cupboard_bottom.dae::PackedScene::8309699802835780895::1723104034::1742498697::1::::<><>::
+cupboard_top.dae::PackedScene::7528580997434009126::1723104034::1742498697::1::::<><>::
+floor_1.dae::PackedScene::173099162383871207::1723104034::1742498696::1::::<><>::
+machine_1.dae::PackedScene::5652665230763673392::1723104034::1742498696::1::::<><>::
+machine_2.dae::PackedScene::1944535179340144942::1723104034::1742498695::1::::<><>::
+overhead_light.dae::PackedScene::7208969457483114954::1723104034::1742498695::1::::<><>::
+tray_1.dae::PackedScene::9071153692343493615::1723104034::1742498695::1::::<><>::
+wall_1.dae::PackedScene::3139031741357461460::1723104034::1742498694::1::::<><>::
+wall_2.dae::PackedScene::4345928057238720561::1723104034::1742498694::1::::<><>::
+wall_base.dae::PackedScene::761228092709640027::1723104034::1742498694::1::::<><>::
+wall_collumn_base.dae::PackedScene::5741474873174477244::1723104034::1742498694::1::::<><>::
+wall_column.dae::PackedScene::1053254449750426639::1723104034::1742498694::1::::<><>::
+wall_door.dae::PackedScene::7323481927949650116::1723104034::1742498694::1::::<><>::
+wall_window.dae::PackedScene::3676537136704271497::1723104034::1742498694::1::::<><>::
+::res://[AR] Hospital Assets - FREE/3. Models/fbx/::1742498711
+bed_1.fbx::PackedScene::4577307603007828322::1723104032::1742498693::1::::<><>::uid://bn0bnhxcsbp0c::::res://[AR] Hospital Assets - FREE/3. Models/hospital_gradient_uv.png
+bed_2.fbx::PackedScene::8843377668099909559::1723104032::1742498693::1::::<><>::uid://bn0bnhxcsbp0c::::res://[AR] Hospital Assets - FREE/3. Models/hospital_gradient_uv.png
+bed_4.fbx::PackedScene::6832179108280471525::1723104032::1742498693::1::::<><>::uid://bn0bnhxcsbp0c::::res://[AR] Hospital Assets - FREE/3. Models/hospital_gradient_uv.png
+cupboard_bottom.fbx::PackedScene::5155846818473415695::1723104032::1742498693::1::::<><>::uid://bn0bnhxcsbp0c::::res://[AR] Hospital Assets - FREE/3. Models/hospital_gradient_uv.png
+cupboard_top.fbx::PackedScene::8371200221516682578::1723104032::1742498693::1::::<><>::uid://bn0bnhxcsbp0c::::res://[AR] Hospital Assets - FREE/3. Models/hospital_gradient_uv.png
+floor_1.fbx::PackedScene::4661806844251603521::1723104032::1742498692::1::::<><>::uid://bn0bnhxcsbp0c::::res://[AR] Hospital Assets - FREE/3. Models/hospital_gradient_uv.png
+machine_1.fbx::PackedScene::7383310384909476483::1723104032::1742498711::1::::<><>::uid://bn0bnhxcsbp0c::::res://[AR] Hospital Assets - FREE/3. Models/hospital_gradient_uv.png
+machine_2.fbx::PackedScene::1178518360211439021::1723104032::1742498710::1::::<><>::uid://bn0bnhxcsbp0c::::res://[AR] Hospital Assets - FREE/3. Models/hospital_gradient_uv.png
+overhead_light.fbx::PackedScene::6546696412444288684::1723104032::1742498710::1::::<><>::uid://bn0bnhxcsbp0c::::res://[AR] Hospital Assets - FREE/3. Models/hospital_gradient_uv.png
+tray_1.fbx::PackedScene::583036392599302934::1723104032::1742498709::1::::<><>::uid://bn0bnhxcsbp0c::::res://[AR] Hospital Assets - FREE/3. Models/hospital_gradient_uv.png
+wall_1.fbx::PackedScene::2240629207263970251::1723104032::1742498709::1::::<><>::uid://bn0bnhxcsbp0c::::res://[AR] Hospital Assets - FREE/3. Models/hospital_gradient_uv.png
+wall_2.fbx::PackedScene::7280177052628070353::1723104032::1742498708::1::::<><>::uid://bn0bnhxcsbp0c::::res://[AR] Hospital Assets - FREE/3. Models/hospital_gradient_uv.png
+wall_base.fbx::PackedScene::3787556028846641955::1723104032::1742498708::1::::<><>::uid://bn0bnhxcsbp0c::::res://[AR] Hospital Assets - FREE/3. Models/hospital_gradient_uv.png
+wall_column.fbx::PackedScene::5685348133047671395::1723104032::1742498707::1::::<><>::uid://bn0bnhxcsbp0c::::res://[AR] Hospital Assets - FREE/3. Models/hospital_gradient_uv.png
+wall_door.fbx::PackedScene::3205215386405181914::1723104032::1742498707::1::::<><>::uid://bn0bnhxcsbp0c::::res://[AR] Hospital Assets - FREE/3. Models/hospital_gradient_uv.png
+wall_window.fbx::PackedScene::6318665084926218631::1723104032::1742498706::1::::<><>::uid://bn0bnhxcsbp0c::::res://[AR] Hospital Assets - FREE/3. Models/hospital_gradient_uv.png
+::res://[AR] Hospital Assets - FREE/3. Models/fbx (Unity Rotated)/::1742498706
+bed_1.fbx::PackedScene::6956385754591541755::1723104032::1742498706::1::::<><>::uid://bn0bnhxcsbp0c::::res://[AR] Hospital Assets - FREE/3. Models/hospital_gradient_uv.png
+bed_2.fbx::PackedScene::6312713603892854045::1723104032::1742498705::1::::<><>::uid://bn0bnhxcsbp0c::::res://[AR] Hospital Assets - FREE/3. Models/hospital_gradient_uv.png
+bed_4.fbx::PackedScene::1732420904519617254::1723104032::1742498705::1::::<><>::uid://bn0bnhxcsbp0c::::res://[AR] Hospital Assets - FREE/3. Models/hospital_gradient_uv.png
+cupboard_bottom.fbx::PackedScene::2610566193733688468::1723104032::1742498704::1::::<><>::uid://bn0bnhxcsbp0c::::res://[AR] Hospital Assets - FREE/3. Models/hospital_gradient_uv.png
+cupboard_top.fbx::PackedScene::8648894223053971483::1723104032::1742498704::1::::<><>::uid://bn0bnhxcsbp0c::::res://[AR] Hospital Assets - FREE/3. Models/hospital_gradient_uv.png
+floor_1.fbx::PackedScene::4745186715621450596::1723104032::1742498703::1::::<><>::uid://bn0bnhxcsbp0c::::res://[AR] Hospital Assets - FREE/3. Models/hospital_gradient_uv.png
+machine_1.fbx::PackedScene::5776280842912687634::1723104032::1742498703::1::::<><>::uid://bn0bnhxcsbp0c::::res://[AR] Hospital Assets - FREE/3. Models/hospital_gradient_uv.png
+machine_2.fbx::PackedScene::3752534812998577024::1723104032::1742498702::1::::<><>::uid://bn0bnhxcsbp0c::::res://[AR] Hospital Assets - FREE/3. Models/hospital_gradient_uv.png
+overhead_light.fbx::PackedScene::6647267077081303286::1723104032::1742498702::1::::<><>::uid://bn0bnhxcsbp0c::::res://[AR] Hospital Assets - FREE/3. Models/hospital_gradient_uv.png
+tray_1.fbx::PackedScene::752748736459440423::1723104032::1742498701::1::::<><>::uid://bn0bnhxcsbp0c::::res://[AR] Hospital Assets - FREE/3. Models/hospital_gradient_uv.png
+tray_2.fbx::PackedScene::8243795834376950746::1723104032::1742498701::1::::<><>::uid://bn0bnhxcsbp0c::::res://[AR] Hospital Assets - FREE/3. Models/hospital_gradient_uv.png
+wall_1.fbx::PackedScene::4455651077412358064::1723104032::1742498700::1::::<><>::uid://bn0bnhxcsbp0c::::res://[AR] Hospital Assets - FREE/3. Models/hospital_gradient_uv.png
+wall_base.fbx::PackedScene::398365324152235279::1723104032::1742498700::1::::<><>::uid://bn0bnhxcsbp0c::::res://[AR] Hospital Assets - FREE/3. Models/hospital_gradient_uv.png
+wall_collumn_base.fbx::PackedScene::3301500696284388112::1723104032::1742498699::1::::<><>::uid://bn0bnhxcsbp0c::::res://[AR] Hospital Assets - FREE/3. Models/hospital_gradient_uv.png
+wall_column.fbx::PackedScene::217396672331940184::1723104032::1742498684::1::::<><>::uid://bn0bnhxcsbp0c::::res://[AR] Hospital Assets - FREE/3. Models/hospital_gradient_uv.png
+wall_door.fbx::PackedScene::2430517619174807096::1723104032::1742498683::1::::<><>::uid://bn0bnhxcsbp0c::::res://[AR] Hospital Assets - FREE/3. Models/hospital_gradient_uv.png
+wall_window.fbx::PackedScene::6541941979978691285::1723104032::1742498683::1::::<><>::uid://bn0bnhxcsbp0c::::res://[AR] Hospital Assets - FREE/3. Models/hospital_gradient_uv.png
+::res://[AR] Hospital Assets - FREE/3. Models/gltf/::1742498720
+bed_1.glb::PackedScene::5866316807237981811::1723104034::1742498682::1::::<><>::uid://fq6fc6xis8cl::::res://[AR] Hospital Assets - FREE/3. Models/gltf/bed_1_hospital_gradient_uv.png
+bed_1_hospital_gradient_uv.png::CompressedTexture2D::385865571992491523::1742498681::1742498720::1::::<><>::
+bed_2.glb::PackedScene::5332003187545458688::1723104034::1742498681::1::::<><>::uid://cr3p2vlbssnv::::res://[AR] Hospital Assets - FREE/3. Models/gltf/bed_2_hospital_gradient_uv.png
+bed_2_hospital_gradient_uv.png::CompressedTexture2D::177200422874316759::1742498681::1742498720::1::::<><>::
+bed_4.glb::PackedScene::8791740241621698674::1723104034::1742498680::1::::<><>::uid://8juvjy08l0bh::::res://[AR] Hospital Assets - FREE/3. Models/gltf/bed_4_hospital_gradient_uv.png
+bed_4_hospital_gradient_uv.png::CompressedTexture2D::2336063592334842005::1742498680::1742498720::1::::<><>::
+cupboard_bottom.glb::PackedScene::2144833586767925931::1723104034::1742498680::1::::<><>::uid://dxrhmimax4i5b::::res://[AR] Hospital Assets - FREE/3. Models/gltf/cupboard_bottom_hospital_gradient_uv.png
+cupboard_bottom_hospital_gradient_uv.png::CompressedTexture2D::8809146763805628149::1742498679::1742498720::1::::<><>::
+cupboard_top.glb::PackedScene::205783344739362015::1723104034::1742498679::1::::<><>::uid://bpdir5vtksqfr::::res://[AR] Hospital Assets - FREE/3. Models/gltf/cupboard_top_hospital_gradient_uv.png
+cupboard_top_hospital_gradient_uv.png::CompressedTexture2D::3445964174983040715::1742498678::1742498720::1::::<><>::
+floor_1.glb::PackedScene::4590895037845181012::1723104034::1742498678::1::::<><>::uid://bcx4prqjq2br2::::res://[AR] Hospital Assets - FREE/3. Models/gltf/floor_1_hospital_gradient_uv.png
+floor_1_hospital_gradient_uv.png::CompressedTexture2D::2576067557056527833::1742498677::1742498720::1::::<><>::
+machine_1.glb::PackedScene::7845054986654138579::1723104034::1742498675::1::::<><>::uid://cgcpyby6ctx04::::res://[AR] Hospital Assets - FREE/3. Models/gltf/machine_1_hospital_gradient_uv.png
+machine_1_hospital_gradient_uv.png::CompressedTexture2D::5199056889678331619::1742498674::1742498720::1::::<><>::
+machine_2.glb::PackedScene::8907783394753614977::1723104034::1742498685::1::::<><>::uid://ddf5l8rekxsrb::::res://[AR] Hospital Assets - FREE/3. Models/gltf/machine_2_hospital_gradient_uv.png
+machine_2_hospital_gradient_uv.png::CompressedTexture2D::7381993384007907235::1742498684::1742498720::1::::<><>::
+overhead_light.glb::PackedScene::7095194914521844216::1723104034::1742498686::1::::<><>::uid://g3hbhfcspn7y::::res://[AR] Hospital Assets - FREE/3. Models/gltf/overhead_light_hospital_gradient_uv.png
+overhead_light_hospital_gradient_uv.png::CompressedTexture2D::479362819188141860::1742498685::1742498720::1::::<><>::
+tray_1.glb::PackedScene::248684053861635635::1723104034::1742498686::1::::<><>::uid://bjcohfovmjlbt::::res://[AR] Hospital Assets - FREE/3. Models/gltf/tray_1_hospital_gradient_uv.png
+tray_1_hospital_gradient_uv.png::CompressedTexture2D::3023111855614135817::1742498686::1742498720::1::::<><>::
+wall_1.glb::PackedScene::40454764848823916::1723104034::1742498687::1::::<><>::uid://dsmcy7pflaq53::::res://[AR] Hospital Assets - FREE/3. Models/gltf/wall_1_hospital_gradient_uv.png
+wall_1_hospital_gradient_uv.png::CompressedTexture2D::8447599766813021032::1742498686::1742498720::1::::<><>::
+wall_2.glb::PackedScene::6367186698897626253::1723104034::1742498688::1::::<><>::uid://x2wkrrvkl4wo::::res://[AR] Hospital Assets - FREE/3. Models/gltf/wall_2_hospital_gradient_uv.png
+wall_2_hospital_gradient_uv.png::CompressedTexture2D::1671436154940871366::1742498687::1742498720::1::::<><>::
+wall_base.glb::PackedScene::3166842879365742932::1723104034::1742498689::1::::<><>::uid://dj72eectyx8yb::::res://[AR] Hospital Assets - FREE/3. Models/gltf/wall_base_hospital_gradient_uv.png
+wall_base_hospital_gradient_uv.png::CompressedTexture2D::7858668448011119053::1742498688::1742498720::1::::<><>::
+wall_collumn_base.glb::PackedScene::1878017137108231144::1723104034::1742498690::1::::<><>::uid://encp0vye3od2::::res://[AR] Hospital Assets - FREE/3. Models/gltf/wall_collumn_base_hospital_gradient_uv.png
+wall_collumn_base_hospital_gradient_uv.png::CompressedTexture2D::307741852870571673::1742498689::1742498720::1::::<><>::
+wall_column.glb::PackedScene::3636451269215019830::1723104034::1742498690::1::::<><>::uid://pde7ee4d5kv0::::res://[AR] Hospital Assets - FREE/3. Models/gltf/wall_column_hospital_gradient_uv.png
+wall_column_hospital_gradient_uv.png::CompressedTexture2D::1059326018804133579::1742498690::1742498720::1::::<><>::
+wall_door.glb::PackedScene::4102089750749807586::1723104034::1742498691::1::::<><>::uid://dt3le7tn4bvw2::::res://[AR] Hospital Assets - FREE/3. Models/gltf/wall_door_hospital_gradient_uv.png
+wall_door_hospital_gradient_uv.png::CompressedTexture2D::8551329398139610003::1742498691::1742498720::1::::<><>::
+wall_window.glb::PackedScene::1581448465093189058::1723104034::1742498692::1::::<><>::uid://bnxfpyydiaikp::::res://[AR] Hospital Assets - FREE/3. Models/gltf/wall_window_hospital_gradient_uv.png
+wall_window_hospital_gradient_uv.png::CompressedTexture2D::3346688008986018659::1742498691::1742498720::1::::<><>::
+::res://[AR] Hospital Assets - FREE/3. Models/obj/::1742498673
+bed_1.obj::Mesh::844845815636629108::1723104036::1742498671::1::::<><>::
+bed_2.obj::Mesh::2108512926185371068::1723104036::1742498672::1::::<><>::
+bed_4.obj::Mesh::4066563037962632238::1723104034::1742498672::1::::<><>::
+cupboard_bottom.obj::Mesh::1342135231932615313::1723104034::1742498672::1::::<><>::
+cupboard_top.obj::Mesh::6498298261370093646::1723104034::1742498672::1::::<><>::
+floor_1.obj::Mesh::5923042252372625084::1723104034::1742498672::1::::<><>::
+machine_1.obj::Mesh::8958331892984105513::1723104036::1742498672::1::::<><>::
+machine_2.obj::Mesh::6545443619517328294::1723104034::1742498672::1::::<><>::
+overhead_light.obj::Mesh::7177041931870315387::1723104036::1742498672::1::::<><>::
+tray_1.obj::Mesh::3068447658128303263::1723104034::1742498673::1::::<><>::
+wall_1.obj::Mesh::6032532976482404323::1723104034::1742498673::1::::<><>::
+wall_2.obj::Mesh::3181925438252181277::1723104034::1742498673::1::::<><>::
+wall_base.obj::Mesh::4482895930564444489::1723104036::1742498673::1::::<><>::
+wall_collumn_base.obj::Mesh::2266638884428793062::1723104034::1742498673::1::::<><>::
+wall_column.obj::Mesh::6520055169096493478::1723104034::1742498673::1::::<><>::
+wall_door.obj::Mesh::880189731261800288::1723104034::1742498673::1::::<><>::
+wall_window.obj::Mesh::9217059199378355774::1723104034::1742498673::1::::<><>::
+::res://[AR] Hospital Assets - FREE/4. Samples/::1742498671
+0. Welcome.png::CompressedTexture2D::2973909878847269949::1723104030::1742498670::1::::<><>::
+backgorund_2.png::CompressedTexture2D::2174142645424382012::1723104030::1742498669::1::::<><>::
+img 4.png::CompressedTexture2D::2513181468452948847::1723104030::1742498671::1::::<><>::
+img 5.png::CompressedTexture2D::8291922128806956548::1723104030::1742498670::1::::<><>::
+Thumbnail.png::CompressedTexture2D::3388621813429906522::1723104030::1742498671::1::::<><>::
+title.png::CompressedTexture2D::1033580342835865247::1723104030::1742498670::1::::<><>::
