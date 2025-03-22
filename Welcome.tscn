@@ -1,0 +1,36 @@
+[gd_scene load_steps=4 format=3 uid="uid://dx5r5n5dwew11"]
+
+[ext_resource type="Texture2D" uid="uid://ba1wgpug27e2h" path="res://Assets/Free/Background/Blue.png" id="1_efaho"]
+[ext_resource type="Texture2D" uid="uid://tepdk53ekru6" path="res://Assets/Free/Menu/Buttons/Play.png" id="2_s0uk0"]
+[ext_resource type="Script" path="res://play_button.gd" id="3_viy1o"]
+
+[node name="Node2D" type="Node2D"]
+
+[node name="Blue" type="Sprite2D" parent="."]
+texture_filter = 1
+position = Vector2(568, 320)
+scale = Vector2(27.5938, 27.5938)
+texture = ExtResource("1_efaho")
+
+[node name="RichTextLabel" type="RichTextLabel" parent="."]
+offset_left = 286.0
+offset_top = 134.0
+offset_right = 979.0
+offset_bottom = 335.0
+bbcode_enabled = true
+text = "[font_size=70]HOSPITAL FRENZY[/font_size]
+"
+
+[node name="Button" type="Button" parent="."]
+texture_filter = 1
+offset_left = 414.0
+offset_top = 281.0
+offset_right = 748.0
+offset_bottom = 585.0
+icon = ExtResource("2_s0uk0")
+flat = true
+icon_alignment = 1
+expand_icon = true
+script = ExtResource("3_viy1o")
+
+[connection signal="pressed" from="Button" to="Button" method="_on_pressed"]
